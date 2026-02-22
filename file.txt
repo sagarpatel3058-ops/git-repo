@@ -1,1 +1,2 @@
+line branch 2
 this line is for main branch
